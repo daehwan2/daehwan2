@@ -5,6 +5,19 @@
   
   #  Hi, I'm a Front End Engineer. 😀
   
+  ### Skills
+  
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-lightblue?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-skyblue?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=react&logoColor=white"/>
+
+  
+  <br/>
+  <br/>
+  
  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daehwan2&theme=react&line_height=40&hide=css"/> 
   <br/>
   <br/>
