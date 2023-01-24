@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**daehwan2/daehwan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header%20render&fontSize=90&text=Daehwan's%20Github" />
 
-Here are some ideas to get you started:
+  
+  #  Hi, I'm a Front End Engineer. 😀
+  
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daehwan2&theme=react&line_height=40&hide=css"/> 
+  <br/>
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwan2&show_icons=true&theme=radical)
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20%20%20&fontSize=90)" />
+
+
+  </div>
