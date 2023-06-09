@@ -18,9 +18,6 @@
   <br/>
   <br/>
   
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daehwan2&theme=react&line_height=40&hide=css"/> 
-  <br/>
-  <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwan2&show_icons=true&theme=radical)
 
