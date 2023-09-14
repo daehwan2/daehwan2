@@ -26,7 +26,7 @@
 
   <div style="display:flex; flex-direction:row; gap:20px; flex-wrap:wrap;">
     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
-      <a href='https://play.google.com/store/apps/details?id=com.daehwan2.booklog'>
+      <a href='https://play.google.com/store/apps/details?id=com.daehwan2.booklog' target="_blank">
         <div style="display:flex; align-items:center; gap:4px;">
            <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/PSPhkw12PmZybc9LcIDjlS0J4egDEgU0AIIiaj_rotB542O9BtagFKyVxySloiL3lfM=w480-h960-rw" width=50/>
            <strong>북로그</strong>
