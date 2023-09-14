@@ -28,7 +28,7 @@
     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
       <a href='https://play.google.com/store/apps/details?id=com.daehwan2.booklog'>
         <div style="display:flex; align-items:center; gap:4px;">
-           <img style="border-radius:8px" src="https://play-lh.googleusercontent.com/PSPhkw12PmZybc9LcIDjlS0J4egDEgU0AIIiaj_rotB542O9BtagFKyVxySloiL3lfM=w480-h960-rw" width=40/>
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/PSPhkw12PmZybc9LcIDjlS0J4egDEgU0AIIiaj_rotB542O9BtagFKyVxySloiL3lfM=w480-h960-rw" width=50/>
            <strong>북로그</strong>
         </div>
       </a>
@@ -39,7 +39,7 @@
     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
       <a href='https://play.google.com/store/apps/details?id=com.daehwan2.acidrain'>
         <div style="display:flex; align-items:center; gap:4px;">
-           <img style="border-radius:8px" src="https://play-lh.googleusercontent.com/Ifx58_qPnXn3V3FiKFHDWxYDUXTi98YLzBWhW0q6ApdZYCfNcLCzG0bGzkiTiQAC_uQu=w480-h960-rw" width=40/>
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/Ifx58_qPnXn3V3FiKFHDWxYDUXTi98YLzBWhW0q6ApdZYCfNcLCzG0bGzkiTiQAC_uQu=w480-h960-rw" width=50/>
            <strong>산성비 타자 게임</strong>
         </div>
       </a>
@@ -50,7 +50,7 @@
     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
       <a href='https://play.google.com/store/apps/details?id=com.daehwan2.cointoss'>
         <div style="display:flex; align-items:center; gap:4px;">
-           <img style="border-radius:8px" src="https://play-lh.googleusercontent.com/qmicJ4MuBXnGopeJJZD8x92dc2PCKzPMR0KRsoTAjotc8VLcooexDol7nrQwy3Pqshw=w480-h960-rw" width=40/>
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/qmicJ4MuBXnGopeJJZD8x92dc2PCKzPMR0KRsoTAjotc8VLcooexDol7nrQwy3Pqshw=w480-h960-rw" width=50/>
            <strong>동전 던지기 맞추기</strong>
         </div>
       </a>
@@ -61,7 +61,7 @@
      <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
       <a href='https://play.google.com/store/apps/details?id=com.daehwan2.freefrog'>
         <div style="display:flex; align-items:center; gap:4px;">
-           <img style="border-radius:8px" src="https://play-lh.googleusercontent.com/KJHM3HNRlg8ISa2sDZa8xF-3I0Xmi5CmnRztIOGnMpR_sWzHN-Hy2O78mlm5Fo_Cxho=w480-h960-rw" width=40/>
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/KJHM3HNRlg8ISa2sDZa8xF-3I0Xmi5CmnRztIOGnMpR_sWzHN-Hy2O78mlm5Fo_Cxho=w480-h960-rw" width=50/>
            <strong>청개구리 가위바위보</strong>
         </div>
       </a>
@@ -72,7 +72,7 @@
      <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
       <a href='https://play.google.com/store/apps/details?id=com.daehwan2.GameQuiz'>
         <div style="display:flex; align-items:center; gap:4px;">
-           <img style="border-radius:8px" src="https://play-lh.googleusercontent.com/7bYQYmn8Vo6njE5pAOYPfT6awoUT2gZTCsqwoxqiF3HkAKDFNoYXfpYiRKqtWJWjDg=w480-h960-rw" width=40/>
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/7bYQYmn8Vo6njE5pAOYPfT6awoUT2gZTCsqwoxqiF3HkAKDFNoYXfpYiRKqtWJWjDg=w480-h960-rw" width=50/>
            <strong>PC 게임 맞추기</strong>
         </div>
       </a>
