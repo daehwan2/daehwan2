@@ -10,10 +10,12 @@
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=white"/>
   </div>
+  <div>
   <img src="https://img.shields.io/badge/React-skyblue?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/NextJS-darkblue?style=flat&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/Storybook-pink?style=flat&logo=StoryBook&logoColor=#FF4785"/>
+  </div>
 
 <br/>
 <br/>
