@@ -20,6 +20,28 @@
 <br/>
 <br/>
 
+
+
+## My Web
+
+<br/>
+
+<div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
+      <a href='https://snazzy-stardust-69c0a0.netlify.app/' target="_blank">
+        <div style="display:flex; align-items:center; gap:4px;">
+           <img align="left" style="border-radius:8px" src="https://snazzy-stardust-69c0a0.netlify.app/logo512.png" width=50/>
+           <strong>디지몬상 테스트</strong>
+        </div>
+      </a>
+      <p style="padding-left:20px; margin-top:10px;">
+       - 얼굴 사진을 업로드하여 나와 닮은 디지몬을 찾아보세요.
+      </p>
+    </div>
+
+
+<br/>
+<br/>
+
 ## My Android App ( React Native )
 
 <br/>
