@@ -1,4 +1,6 @@
-# 😀 Hi, I'm a Front End Engineer. 
+## Introduction
+
+Hi, I'm a Front End Engineer. 
 
 ## Skills
 
