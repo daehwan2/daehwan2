@@ -1,4 +1,4 @@
-# Hi, I'm a Front End Engineer. 😀
+# 😀 Hi, I'm a Front End Engineer. 
 
 ## Skills
 
@@ -22,7 +22,7 @@
 
 
 
-## My Web
+## 🤩 My Web
 
 <br/>
 
@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-## My Android App ( React Native )
+## 🤠 My Android App ( React Native )
 
 <br/>
 
