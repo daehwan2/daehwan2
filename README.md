@@ -39,9 +39,24 @@ Hi, I'm a Front End Engineer.
         </div>
       </a>
       <p style="padding-left:20px; margin-top:10px;">
+       - 본 퀴즈를 누군가 앞에서 풀게되면 공격을 받고 지위나 직업을 박탈당할 수 있습니다. 즉, 나락에 가실 수 있습니다.
+      </p>
+    </div>
+    
+<br/>
+
+<div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
+      <a href='https://snazzy-stardust-69c0a0.netlify.app/' target="_blank">
+        <div style="display:flex; align-items:center; gap:4px;">
+           <img align="left" style="border-radius:8px" src="https://stalwart-palmier-4f6d8a.netlify.app/logo512.png" width=50/>
+           <strong>나락 퀴즈</strong>
+        </div>
+      </a>
+      <p style="padding-left:20px; margin-top:10px;">
        - 얼굴 사진을 업로드하여 나와 닮은 디지몬을 찾아보세요.
       </p>
     </div>
+
 
 
 <br/>
