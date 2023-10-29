@@ -39,7 +39,7 @@ Hi, I'm a Front End Engineer.
         </div>
       </a>
       <p style="padding-left:20px; margin-top:10px;">
-       - 본 퀴즈를 누군가 앞에서 풀게되면 공격을 받고 지위나 직업을 박탈당할 수 있습니다. 즉, 나락에 가실 수 있습니다.
+       - 얼굴 사진을 업로드하여 나와 닮은 디지몬을 찾아보세요.
       </p>
     </div>
     
@@ -53,7 +53,7 @@ Hi, I'm a Front End Engineer.
         </div>
       </a>
       <p style="padding-left:20px; margin-top:10px;">
-       - 얼굴 사진을 업로드하여 나와 닮은 디지몬을 찾아보세요.
+       - 본 퀴즈를 누군가 앞에서 풀게되면 공격을 받고 지위나 직업을 박탈당할 수 있습니다. 즉, 나락에 가실 수 있습니다.
       </p>
     </div>
 
