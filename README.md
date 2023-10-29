@@ -46,7 +46,7 @@ Hi, I'm a Front End Engineer.
 <br/>
 
 <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
-      <a href='https://snazzy-stardust-69c0a0.netlify.app/' target="_blank">
+      <a href='https://stalwart-palmier-4f6d8a.netlify.app/' target="_blank">
         <div style="display:flex; align-items:center; gap:4px;">
            <img align="left" style="border-radius:8px" src="https://stalwart-palmier-4f6d8a.netlify.app/logo512.png" width=50/>
            <strong>나락 퀴즈</strong>
