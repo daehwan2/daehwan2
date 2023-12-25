@@ -26,7 +26,6 @@ Hi, I'm a Front End Engineer.
 <br/>
 
 
-
 ## 🤩 My Web
 
 <br/>
@@ -54,6 +53,21 @@ Hi, I'm a Front End Engineer.
       </a>
       <p style="padding-left:20px; margin-top:10px;">
        - 본 퀴즈를 누군가 앞에서 풀게되면 공격을 받고 지위나 직업을 박탈당할 수 있습니다. 즉, 나락에 가실 수 있습니다.
+      </p>
+    </div>
+
+ 
+<br/>
+
+<div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
+      <a href='https://steady-zabaione-6ad90f.netlify.app/' target="_blank">
+        <div style="display:flex; align-items:center; gap:4px;">
+           <img align="left" style="border-radius:8px" src="https://steady-zabaione-6ad90f.netlify.app/logo512.png" width=50/>
+           <strong>똥 피하기</strong>
+        </div>
+      </a>
+      <p style="padding-left:20px; margin-top:10px;">
+       - 똥 피하기 웹 게임 ( 모바일 / 피씨 둘 다 플레이 가능 )
       </p>
     </div>
 
