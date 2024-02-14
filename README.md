@@ -25,8 +25,8 @@ Hi, I'm a Front End Engineer.
 <br/>
 <br/>
 
-
-## 🤩 My Web
+<details>
+<summary> 🤩 My Web </summary>
 
 <br/>
 
@@ -75,8 +75,10 @@ Hi, I'm a Front End Engineer.
 
 <br/>
 <br/>
+</details>
 
-## 🤠 My Android App ( React Native )
+<details>
+<summary>🤠 My Android App ( React Native ) </summary>
 
 <br/>
 
@@ -137,12 +139,9 @@ Hi, I'm a Front End Engineer.
       </p>
      </div>
   </div>
+</details>
 
   <br/>
   <br/>
-  <br/>
-  <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwan2&show_icons=true&theme=radical)
 
   </div>
