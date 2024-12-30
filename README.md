@@ -148,6 +148,17 @@ Hi, I'm a Front End Engineer.
        - PC 게임을 글자수와 스크린샷을 보고 맞추세요.
       </p>
      </div>
+     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
+      <a href='https://play.google.com/store/apps/details?id=com.daehwan2.GameQuiz'>
+        <div style="display:flex; align-items:center; gap:4px;">
+           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/7bYQYmn8Vo6njE5pAOYPfT6awoUT2gZTCsqwoxqiF3HkAKDFNoYXfpYiRKqtWJWjDg=w480-h960-rw" width=50/>
+           <strong>PC 게임 맞추기</strong>
+        </div>
+      </a>
+      <p style="padding-left:20px; margin-top:10px;">
+       - PC 게임을 글자수와 스크린샷을 보고 맞추세요.
+      </p>
+     </div>
   </div>
 </details>
 
@@ -159,14 +170,14 @@ Hi, I'm a Front End Engineer.
 
   <div style="display:flex; flex-direction:row; gap:20px; flex-wrap:wrap;">
     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
-      <a href='https://chromewebstore.google.com/detail/google-image-crawler/hoggjapabhffmkfijmkfhlihfjblefhm' target="_blank">
+      <a href='https://chromewebstore.google.com/detail/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EC%A1%B0%EC%9E%91/dcjiffpbnkgnpocnmmgcjfelfmdaegoc?authuser=0&hl=ko' target="_blank">
         <div style="display:flex; align-items:center; gap:4px;">
-           <img align="left" style="border-radius:8px" src="https://lh3.googleusercontent.com/oodnY_m9yc3t1vpLM3FrJh_GDXaDIikGh3HO9OVhCyOvxLkUeBL38ldOqMpMyjTIzFpRHsgjraZYNkxsJ8S0J8eANZk=s60" width=50/>
-           <strong>Google Image Crawler</strong>
+           <img align="left" style="border-radius:8px" src="https://lh3.googleusercontent.com/tE3gtAkcncBRW2_FgPBeQR3yXPa23T3eCsM8iAuB78R7BK4CfYyTvG39ptkMBCACU54BR1RGr_0MREY_JAy5FTCMzs8=s120" width=50/>
+           <strong>네이버 로또 번호 조작</strong>
         </div>
       </a>
       <p style="padding-left:20px; margin-top:10px;">
-       - 구글 이미지를 원하는 만큼 다운로드 하세요.
+       - 네이버에서 로또를 검색하였을때 나오는 화면의 번호를 변경할 수 있습니다.
       </p>
     </div>
 </details>
