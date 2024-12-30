@@ -148,17 +148,6 @@ Hi, I'm a Front End Engineer.
        - PC 게임을 글자수와 스크린샷을 보고 맞추세요.
       </p>
      </div>
-     <div style="border:1px solid lightgray; border-radius:12px; padding:10px; width:fit-content;">
-      <a href='https://play.google.com/store/apps/details?id=com.daehwan2.GameQuiz'>
-        <div style="display:flex; align-items:center; gap:4px;">
-           <img align="left" style="border-radius:8px" src="https://play-lh.googleusercontent.com/7bYQYmn8Vo6njE5pAOYPfT6awoUT2gZTCsqwoxqiF3HkAKDFNoYXfpYiRKqtWJWjDg=w480-h960-rw" width=50/>
-           <strong>PC 게임 맞추기</strong>
-        </div>
-      </a>
-      <p style="padding-left:20px; margin-top:10px;">
-       - PC 게임을 글자수와 스크린샷을 보고 맞추세요.
-      </p>
-     </div>
   </div>
 </details>
 
