@@ -3,12 +3,14 @@
 Hi, I'm a Front End Engineer. 
 
 뇽뇽이 - 습관 만들기 66일 챌린지 개발자입니다.
+<br/>
 
-<img src="https://github.com/user-attachments/assets/1685e2da-8a12-4420-8d5c-2558ac50563f" width="100px" height="100px" />
+<a href='https://66daylaw.netlify.app/' target="_blank">
+  <img src='https://github.com/user-attachments/assets/7f1531db-20bd-4d57-9a51-e62ff05931e5' />
+</a>
 
-Android: https://play.google.com/store/apps/details?id=com.sixsixdaylaw&fbclid=PAZXh0bgNhZW0CMTEAAaZho26yGVMUZ4I5_y15cPmL9ZihjxI_UBZE4Yf0WAPbsxqdCusvefcUxhI_aem_wpTE_H64dx0K9iTC09uGsQ
 
-IOS: https://apps.apple.com/us/app/%EB%87%BD%EB%87%BD%EC%9D%B4/id6664070484?platform=iphone
+
 
 <br/>
 <br/>
