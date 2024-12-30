@@ -6,7 +6,7 @@ Hi, I'm a Front End Engineer.
 <br/>
 
 <a href='https://66daylaw.netlify.app/' target="_blank">
-  <img src='https://github.com/user-attachments/assets/7f1531db-20bd-4d57-9a51-e62ff05931e5' />
+  <img src='https://github.com/user-attachments/assets/7f1531db-20bd-4d57-9a51-e62ff05931e5' width=500/>
 </a>
 
 
